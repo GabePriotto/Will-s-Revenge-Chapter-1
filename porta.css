@@ -1,0 +1,43 @@
+body {
+    background-image: url('./dentro-do-celeiro.avif');
+    background-size: contain;
+    background-size: 100% 100%;
+    width: 100vw;
+    height: 100vh;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+.run {
+    text-align: center;
+    color: white;
+    margin-top: 15px;
+}
+.angel {
+    text-align: center;
+    color: rgb(29, 128, 161);
+    margin-top: 15px;
+}
+.div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+img {
+    border-radius: 10px;
+    padding-top: 20px;
+}
+.dive {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+button {
+    margin-top: 20px;
+    margin-right: 20px;
+    width: 70px;
+    height: 45px;
+    font-size: 20px;
+}

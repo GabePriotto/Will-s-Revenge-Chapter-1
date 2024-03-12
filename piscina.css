@@ -1,0 +1,29 @@
+body {
+    background-image: url('./Ballpit.webp');
+    background-size: contain;
+    background-size: 100% 100%;
+    width: 100vw;
+    height: 100vh;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+.mal {
+    text-align: center;
+    margin-top: 15px;
+    color: white;
+}
+.div {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+button {
+    margin-top: 30px;
+    border-radius: 10px;
+    height: 40px;
+    width: 60px;
+    font-size: 15px;
+}

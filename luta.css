@@ -1,0 +1,29 @@
+body {
+    background-image: url('./túnelcolorido.jpg');
+    background-size: contain;
+    background-size: 100% 100%;
+    width: 100vw;
+    height: 100vh;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+.luta {
+    text-align: center;
+    color: white;
+    margin-top: 15px;
+}
+.div {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+button {
+    border-radius: 10px;
+    font-size: 15px;
+    height: 40px;
+    width: 60px;
+    margin-top: 10px;
+}
